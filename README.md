@@ -1,5 +1,6 @@
 # struct_dirent_seekoff
 
+
 gcc main.c -o seekoff
 ./seekoff ./test
 
